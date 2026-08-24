@@ -4151,6 +4151,7 @@ dependencies = [
  "gstreamer",
  "gstreamer-app",
  "image",
+ "libargus-sys",
  "libc",
  "livekit",
  "log",
