@@ -316,6 +316,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - bump libwebrtc to m125
+## 0.12.77 (2026-08-26)
+
+### Fixes
+
+- Add `self_test_http_get` / `self_test_ws_echo` / `has_http_client` / `has_ws_client` UniFFI exports so foreign hosts can exercise the transport seam end-to-end.
+
 ## 0.12.76 (2026-08-25)
 
 ### Fixes
